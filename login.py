@@ -1,2 +1,1 @@
-print("login")
-print("this code writed in local")
+#jadi should be coee in bash, here form localllllllllll
